@@ -4,7 +4,7 @@
 
 <br>
 
-* 🧑🏻‍🎓 Estudante de Análise e Desenvolvimento de Sistemas na Faculdade Descomplica.
+* 👩‍🎓 Estudante de Análise e Desenvolvimento de Sistemas na Faculdade Descomplica.
 
 <br>
 
