@@ -37,5 +37,5 @@
 ##
 
 
-   ![Snake animation](https://github.com/KahFe/KahFe/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/KahFe/KahFe/blob/output/github-contribution-grid-snake.svg)
 
